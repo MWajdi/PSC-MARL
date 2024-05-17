@@ -51,21 +51,21 @@ You can train the agents using either CleanRL or RLlib.
 
 To train using CleanRL, run:
 
-python cleanrl_implementation/ppo_implement.py
+`python cleanrl_implementation/ppo_implement.py`
 
 
 #### RLlib
 
 To train using RLlib, run:
 
-python rllib_implementation/training.py
+`python rllib_implementation/training.py`
 
 
 ### Visualization
 
 To visualize the models trained using RLlib, run:
 
-python rllib_implementation/assess.py
+`python rllib_implementation/assess.py`
 
 
 ### Configuration
